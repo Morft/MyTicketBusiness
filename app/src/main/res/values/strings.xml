@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTicketBusiness</string>
+    <string name="title_activity_ticket_caller">TicketCallerActivity</string>
+</resources>

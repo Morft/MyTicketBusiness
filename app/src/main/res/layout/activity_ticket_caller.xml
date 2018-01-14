@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="myticket.myticketbusiness.activities.TicketCallerActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/caller_main_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tickets"
+        android:textColor="#000"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/caller_view_ticket"
+        android:textColor="#000"
+        android:text="View"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/caller_main_title"
+        android:layout_marginLeft="10dp"/>
+
+    <Button
+        android:id="@+id/caller_config_ticket"
+        android:textColor="#000"
+        android:text="Config"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/caller_view_ticket"
+        android:layout_marginLeft="10dp"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
