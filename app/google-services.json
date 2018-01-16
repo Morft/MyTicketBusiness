@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "905083326551",
+    "firebase_url": "https://myticket-f07b4.firebaseio.com",
+    "project_id": "myticket-f07b4",
+    "storage_bucket": "myticket-f07b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905083326551:android:14a81a127519409e",
+        "android_client_info": {
+          "package_name": "myticket.myticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905083326551-8t24lde5d7vg0ieclvpgmne3vlb1cu5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myticket.myticket",
+            "certificate_hash": "01ea5d641d18d14558193530c4db1ab313706bc3"
+          }
+        },
+        {
+          "client_id": "905083326551-r799861s4lul4n0snldv7vb1dbmivh4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myticket.myticket",
+            "certificate_hash": "3598cbee795c6be14e949cb0dc1f6786ddd1284c"
+          }
+        },
+        {
+          "client_id": "905083326551-ir551ptp63hr10cbqdru70jkbhnnvik3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myticket.myticket",
+            "certificate_hash": "80c326c48da88a484ad6f3bcab4db6bfb6d93826"
+          }
+        },
+        {
+          "client_id": "905083326551-5oei9nu94ej3tvvd5t17neagerabe5mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myticket.myticket",
+            "certificate_hash": "e89449956ecf9f011c1158ccc755285476b1883c"
+          }
+        },
+        {
+          "client_id": "905083326551-vhi2usjiunmms73b3l0osvflgvb5tb9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTSESuh9O5kULM5m4q2KZT2hboBS0kME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905083326551-vhi2usjiunmms73b3l0osvflgvb5tb9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905083326551:android:f68799bd61f2544e",
+        "android_client_info": {
+          "package_name": "myticket.myticketbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905083326551-ifilo65k5g0oepqpovdjut6lif4c9g6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myticket.myticketbusiness",
+            "certificate_hash": "e89449956ecf9f011c1158ccc755285476b1883c"
+          }
+        },
+        {
+          "client_id": "905083326551-vhi2usjiunmms73b3l0osvflgvb5tb9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTSESuh9O5kULM5m4q2KZT2hboBS0kME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905083326551-vhi2usjiunmms73b3l0osvflgvb5tb9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
