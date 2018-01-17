@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">MyTicketBusiness</string>
     <string name="title_activity_ticket_caller">TicketCallerActivity</string>
+
+
+    <!-- TicketCallerActivity -->
+    <string name="services_ticket">Ticket</string>
+    <string name="services_actual_ticket">Actual</string>
+    <string name="services_inline">Inline</string>
+
 </resources>
