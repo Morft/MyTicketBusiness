@@ -28,7 +28,6 @@ public class QueueFragment extends DialogFragment {
     private String time;
     private EditText editText;
 
-
     // Firebase
     private DatabaseReference mFirebaseDatabaseReference;
 

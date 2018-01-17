@@ -109,7 +109,7 @@ public class TicketCallerActivity extends AppCompatActivity {
 
         providerId = "123456789";
 
-        mFirebaseDatabaseReference = FirebaseDatabase.getInstance().getReference("Providers/" +providerId);
+        mFirebaseDatabaseReference = FirebaseDatabase.getInstance().getReference("Providers/" + providerId);
         mFirebaseDatabaseReference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
