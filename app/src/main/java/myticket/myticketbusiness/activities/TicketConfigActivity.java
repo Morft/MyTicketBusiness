@@ -1,11 +1,13 @@
 package myticket.myticketbusiness.activities;
 
 import android.content.Intent;
+import android.support.v4.app.DialogFragment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import Fragments.QueueFragment;
 import myticket.myticketbusiness.R;
 
 public class TicketConfigActivity extends AppCompatActivity {
@@ -31,7 +33,8 @@ public class TicketConfigActivity extends AppCompatActivity {
         {
             @Override
             public void onClick(View v) {
-                // Quando se clicar no botao add, faz alguma coisa.
+                DialogFragment newFragment = new QueueFragment();
+                newFragment.show(getSupportFragmentManager(), "add");
             }
         });
     }

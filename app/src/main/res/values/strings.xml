@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">MyTicketBusiness</string>
     <string name="title_activity_ticket_caller">TicketCallerActivity</string>
-
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_queue">Name of the Queue</string>
+    <string name="refresh">Refresh Time</string>
 
     <!-- TicketCallerActivity -->
     <string name="services_ticket">Ticket</string>
